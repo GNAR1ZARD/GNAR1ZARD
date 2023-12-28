@@ -4,4 +4,5 @@
 <p align="center">
     <img src="sL_js.png" alt="JavaScript Image" width="200" height="200" />
     <img src="sL_cpp.png" alt="C++ Image" width="200" height="200" />
+    <img src="SL_HTML.jpg" alt="HTML Image" width="200" height="200" />
 </p>
