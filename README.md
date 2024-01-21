@@ -1,7 +1,7 @@
 <!-- Start of GitHub profile README -->
 
 <!-- SoloLearn Certificates Section -->
-## SoloLearn Certificates
+## Sololearn Certificates
 <p align="center">
     <img src="sL_cpp.png" alt="C++ Course Certificate" width="200" height="200" style="padding: 10px;" />
     <img src="SL_Java.jpg" alt="Java Course Certificate" width="200" height="200" style="padding: 10px;" />
@@ -14,7 +14,7 @@
 </p>
 
 <!-- Base Camp Certificates Section -->
-## BaseCamp Certificates
+## Base Camp Certificates
 <p align="center">
     <img src="Base_Arrays.png" alt="Base Camp Arrays Certificate" width="200" height="200" style="padding: 10px;" />
     <img src="Base_Deployment.png" alt="Base Camp Deployment Certificate" width="200" height="200" style="padding: 10px;" />
