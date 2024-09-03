@@ -14,7 +14,7 @@
 
 Hello there! I'm Ryan, a passionate cybersecurity enthusiast and aspiring red teamer based in Las Vegas, NV. I thrive in tackling complex challenges through creative problem-solving. Always learning, always hacking (ethically, of course)!
 
-### 🛠️ Technologies & Tools
+### 🔤 Programming Languages 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)
