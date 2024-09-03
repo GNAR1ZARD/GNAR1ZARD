@@ -2,17 +2,17 @@
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gnarizard.png)
 
-## 🌐 Ryan Amendala | @GNAR1ZARD
+## @GNAR1ZARD 
 
 👾 **Cybersecurity Enthusiast** | 🎓 **CS Graduate from UNLV** | 💻 **Open-Source Contributor**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ryan7926) | [TryHackMe](https://tryhackme.com/p/gnarizard)
+🔗 [LinkedIn](https://www.linkedin.com/in/ryan7926) | [TryHackMe](https://tryhackme.com/p/gnarizard) | [CyberJutsu-Blog](https://gnar1zard.github.io/cyberjutsu/)
 
 ---
 
 ### 🚀 About Me
 
-Hello there! I'm Ryan, a passionate cybersecurity enthusiast and aspiring red teamer based in Las Vegas, NV. I thrive in tackling complex challenges through creative problem-solving. Always learning, always hacking (ethically, of course)!
+Security engineer with a strong foundation in computer science as well as experience in identifying and mitigating security vulnerabilities. Proficient in programming, network design, vulnerability assessment, and the use of leading cybersecurity tools.
 
 ### 🔤 Programming Languages 
 
@@ -62,8 +62,8 @@ Hello there! I'm Ryan, a passionate cybersecurity enthusiast and aspiring red te
 
 ### 📬 Get in Touch
 
-Feel free to connect or reach out for collaborations, open-source contributions, or just to geek out on the latest in cybersecurity!
+Feel free to connect or reach out for collaborations, open-source contributions, or just to nerd out on the latest in cybersecurity!
 
-📧 ryanamendala@gmail.com | 🌐 [Website](https://gnar1zard.github.io/cyberjutsu/)
+📧 ryanamendala@gmail.com 
 
 <!-- End of GitHub profile README -->
