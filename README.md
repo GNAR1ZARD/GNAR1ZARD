@@ -60,10 +60,4 @@ Security engineer with a strong foundation in computer science as well as experi
 
 ---
 
-### 📬 Get in Touch
-
-Feel free to connect or reach out for collaborations, open-source contributions, or just to nerd out on the latest in cybersecurity!
-
-📧 ryanamendala@gmail.com 
-
 <!-- End of GitHub profile README -->
