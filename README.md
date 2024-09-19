@@ -1,7 +1,5 @@
 <!-- Start of GitHub profile README -->
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/gnarizard.png)
-
 ## @GNAR1ZARD 
 
 👾 **Cybersecurity Enthusiast** | 🎓 **CS Graduate from UNLV** | 💻 **Open-Source Contributor**
