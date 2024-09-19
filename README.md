@@ -23,29 +23,16 @@ Security engineer with a strong foundation in computer science as well as experi
 
 ---
 
-### 📚 Certifications
-
-- 🥇 **AWS Cloud Practitioner**
-- 🥇 **Google Cybersecurity Certification**
-- 🏆 **Top Rank on TryHackMe**
-
-### 🔭 Projects & Contributions
-
-- 🕵️‍♂️ **NFT-Based Identity Authentication**: Developed a student identity authentication system using NFTs on Ethereum.
-- 🛡️ **Network Design for Enterprise Security**: Engineered a secure enterprise network with VLAN segmentation and IPS.
-- 🖥️ **Open-Source Contributions**: Ethereum Foundation, Optimism (OP), and Base (Coinbase L2).
-
 ### 🌱 Current Focus
 
 - Pursuing CDSA & CPTS certifications offered by HackTheBox.
-- Expanding knowledge in blockchain security and smart contract development.
 
 ---
 
 ### 🎯 Fun Facts
 
 - ⚔️ CTF Challenger | Ranked top percentile on TryHackMe
-- 🎮 Gamer: League of Legends, StarCraft II, WoW
+- 🎮 Gamer: League of Legends, StarCraft II
 - 🥋 Jujitsu practitioner
 - 📺 Anime fan
 - 📚 Avid reader: Big fan of the Red Rising Trilogy
