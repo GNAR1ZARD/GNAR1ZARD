@@ -2,7 +2,7 @@
 
 ## @GNAR1ZARD 
 
-👾 **Cybersecurity Enthusiast** | 💻 **Open-Source Contributor**
+**Computer Networking** | **Cybersecurity** | **Information Assurance**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ryan7926) | [TryHackMe](https://tryhackme.com/p/gnarizard) | [CyberJutsu-Blog](https://gnar1zard.github.io/cyberjutsu/)
 
