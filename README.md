@@ -9,21 +9,4 @@
 
 ---
 
-### 👋 About Me
-
-- ⚔️ CTF Challenger 
-- 🎮 eSports
-- ♟️ Chess
-- 🥋 Jujitsu 
-- 📺 Anime
-- 📚 Reading
-- 👨🏻‍🍳 Cooking
-- 🏋🏻 Bodybuilding
-- 🧘🏻‍♂️ Yogi
-- 🏄🏻‍♂️ Surfing
-- 🏂 Snowboarding
-- 🏕️ Nature
-
----
-
 <!-- End of GitHub profile README -->
