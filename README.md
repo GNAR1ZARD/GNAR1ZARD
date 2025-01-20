@@ -2,7 +2,7 @@
 
 ## @GNAR1ZARD 
 
-**Cybersecurity** | **Offensive Security** | **Penetration Testing** | **Ethical Hacking** | **Red Teaming**
+**Cybersecurity** | **Information Assurance** | **Computer Networking** 
 
 🏴 [Hack The Box](https://app.hackthebox.com/profile/1341160) & [TryHackMe](https://tryhackme.com/p/gnarizard)     
 ✍️ [CyberJutsu](https://gnar1zard.github.io/cyberjutsu/) Detailed technical write-ups on cybersecurity tools and techniques.  
